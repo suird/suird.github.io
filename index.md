@@ -4,8 +4,8 @@ Every now and then, I get the usual comments asking where song XYZ is from, and 
 
 ### Common Songs
 
-- [**Love in Motion** by SebastiAn](https://open.spotify.com/track/3HXI3edwL4EiF6JBkNYZdj?autoplay=true) ([YouTube link](https://www.youtube.com/watch?v=BgT8FsXvq_U))
-- [**Jaded Lights** by Jazzcat](http://www.modules.pl/?id=module&mod=7238) ([YouTube link](https://www.youtube.com/watch?v=cqF606H3XSw))
+- [**Love in Motion** by SebastiAn](https://open.spotify.com/track/3HXI3edwL4EiF6JBkNYZdj?autoplay=true) ([YouTube link](https://www.youtube.com/watch?v=cqF606H3XSw))
+- [**Jaded Lights** by Jazzcat](http://www.modules.pl/?id=module&mod=7238) ([YouTube link](https://www.youtube.com/watch?v=BgT8FsXvq_U))
 - [**Quiz's Chance** by JohnDare](https://www.newgrounds.com/audio/listen/173518)
 - [**Lost Forest** by Groovemaster303](https://youtu.be/1dZK7yqWpok)
 - [**Space Standart** by Shiru](https://youtu.be/sIEV4W66Er8)
