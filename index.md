@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Music List
 
-You can use the [editor on GitHub](https://github.com/suird/suird.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Every now and then, I get the usual comments asking where song XYZ is from, and honestly, that's cool because I listen to a lot of niche things, and it's cool when I can get people to like them as well. Unfortunately, I can't really respond saying which specific tunes pop up at each point, because that takes a lot of time out of my life, therefore, I have compiled a list of song which are commonly used in my videos, and specific songs from each video.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Common Songs
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suird/suird.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [**Love in Motion** by SebastiAn](https://open.spotify.com/track/3HXI3edwL4EiF6JBkNYZdj?autoplay=true)
+- [**Jaded Lights** by Jazzcat](http://www.modules.pl/?id=module&mod=7238) ([YouTube link](https://www.youtube.com/watch?v=BgT8FsXvq_U))
+- [**Lost Forest** by Groovemaster303](https://youtu.be/1dZK7yqWpok)
+- [**Space Standart** by Shiru](https://youtu.be/sIEV4W66Er8)
+- [**Uzhos** by Alone Coder](https://youtu.be/wax2CULOERw)
+- [**Romantic** by Bensound](https://www.bensound.com/royalty-free-music/track/romantic)
+- **Home for the Holidays, Ersatz Bossa** and **The Urban Symphonia** from YouTube Audio Library
+- **078-tenteko2.mid** and **ayashii.mid** from [The Maid of Fairewell Heights](http://www.memoriesoffear.com/games_themaidoffairewellheights/index.html)
+- [**tansaku2.ogg**](https://www.youtube.com/watch?v=3Wsao35XGYk), [**Tsurugi.ogg**](https://www.youtube.com/watch?v=wzdBFusBn-0), and [**zyoban.ogg**](https://www.youtube.com/watch?v=DxoGcd2D31U) from [Your Turn to Die](https://vgperson.com/games/yourturntodie.htm)
